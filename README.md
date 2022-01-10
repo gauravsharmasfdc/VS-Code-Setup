@@ -14,3 +14,23 @@
 * Setting > Editor > Suggest : Preview : true
 * Setting > Editor > Bracket Pair Colorization : true
 * Setting > Editor > Guide : Bracket Pair : true
+* Setting > Editor > Enable Preview : false
+
+
+## Prettier Extension Setting 
+** Add below in setting JSON file **
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+
+## Install Sfdx Diff Check
+   sfdx plugins:install @salesforce/sfdx-diff
+   
+## Install Prettier Apex Plugin
+  [https://github.com/dangmai/prettier-plugin-apex](https://github.com/dangmai/prettier-plugin-apex)
+  
+  [https://developer.salesforce.com/tools/vscode/en/user-guide/prettier](https://developer.salesforce.com/tools/vscode/en/user-guide/prettier)
+    
