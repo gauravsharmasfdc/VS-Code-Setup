@@ -3,7 +3,7 @@
 * Intall VS Code
 * Setting > Editor > Font Size : 14
 * Setting > Editor > Tab Size : 4
-* Setting > Editor > Word Wrap : on
+* Setting > Editor > Word Wrap : off
 * Setting > Editor > Format On Save : true
 * Setting > Editor > Format On Mode : file/modifications
 * Setting > Workbench > Editor > Pinned Tab sizing : normal
