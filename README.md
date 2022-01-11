@@ -16,8 +16,18 @@
 * Setting > Editor > Guide : Bracket Pair : true
 * Setting > Editor > Enable Preview : false
 
+## Extensions
+  1. Salesforce Extendion Pack
+  2. Auto Close Tag
+  3. Auto Rename Tag
+  4. ES Lint
+  5. Indent-Rainbow
+  6. JavaScript ES6 code snippets
+  7. Prettier Code Formatter
+  8. Salesforce Documenter
+  9. VSCode-Icons
 
-## Prettier Extension Setting 
+## Prettier Extensions Setting 
 ** Add below in setting JSON file **
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
