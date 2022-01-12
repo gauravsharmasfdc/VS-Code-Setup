@@ -1,6 +1,7 @@
 # This guide help to setup vscode.
 
 * Intall VS Code
+* Update Java Home Path : "java.home":"C:\\Program Files\\Java\\jdk1.8.0_111"
 * Setting > Editor > Font Size : 14
 * Setting > Editor > Tab Size : 4
 * Setting > Editor > Word Wrap : off
@@ -26,6 +27,9 @@
   7. Prettier Code Formatter
   8. Salesforce Documenter
   9. VSCode-Icons
+  10. Git Graph
+  11. Git Lens
+  12. Bracket Pair Colorizer 2
 
 ## Prettier Extensions Setting 
 ** Add below in setting JSON file **
