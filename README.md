@@ -39,6 +39,9 @@
   "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
+  
+** Update .prettierrc file 
+   "tabWidth":4
 
 ## Install Sfdx Diff Check
    sfdx plugins:install @salesforce/sfdx-diff
