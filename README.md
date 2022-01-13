@@ -29,7 +29,7 @@
   9. VSCode-Icons
   10. Git Graph
   11. Git Lens
-  12. Bracket Pair Colorizer 2
+  12. Bracket Pair Colorizer 2 - (Only if "Setting > Editor > Bracket Pair Colorization" not available in your VSCode version)
 
 ## Prettier Extensions Setting 
 ** Add below in setting JSON file **
